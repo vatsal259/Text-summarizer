@@ -1,4 +1,5 @@
-# Wild-Hacks Hackathon
+# Tech Together New York
+## Text - Summarizer
 
 ### Team Members
 ##### [Aishaan Datt](https://github.com/aishaandatt)
@@ -28,6 +29,4 @@
 ### Finalising our model
 ##### Accuracy-0.9268
 ##### Loss-0.2519
-### Screenshots
-##### <img src="https://github.com/aishaandatt/WildHacks/blob/master/Graph.png" alt="Accuracy and loss graph" style="height: 320px; width:320px;"/>
 ### Video link
