@@ -17,9 +17,6 @@
 ## Project Motivation and Overview
 ##### How often does it occur that we find ourselves with an urgent need to look up something on the web-for a reference to some article, to clear a doubt encountered while working on an assignment, etc and we are ambushed by these long cumbersome articles that may or or may not contain the piece of information that we are probing for. <br></br>TextSummarizer is a tool that encounters this problem and helps us to gather relevent and contextual information from the websites that we are looking at, for the information that we are for.
 
-## Dataset
-##### Our custom dataset consists of 91 classes with 5850 images.<br></br>No. of classes for animals:90<br></br> No. of classes of humans:1
-
 ## Project Description
 ### LexRank Algorithm
 Is is a useful algorithm for NLP projects, highly efficient and uses eigen values to rank the words according to their meaning.
