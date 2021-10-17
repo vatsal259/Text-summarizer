@@ -20,13 +20,7 @@
 ## Dataset
 ##### Our custom dataset consists of 91 classes with 5850 images.<br></br>No. of classes for animals:90<br></br> No. of classes of humans:1
 
-## Model Description
-### Adding Hidden layers<br></br>
-##### We have added 5 hidden layers using "Relu" activation function and 1 Dense layer.<br></br>The output layer has "softmax" activation function.
-### Compiling our model
-##### No. of epochs-15
-##### Steps per epoch-169
-### Finalising our model
-##### Accuracy-0.9268
-##### Loss-0.2519
+## Project Description
+### LexRank Algorithm
+Is is a useful algorithm for NLP projects, highly efficient and uses eigen values to rank the words according to their meaning.
 ### Video link
