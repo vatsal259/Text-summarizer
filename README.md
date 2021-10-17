@@ -21,3 +21,4 @@
 ### LexRank Algorithm
 Is is a useful algorithm for NLP projects, highly efficient and uses eigen values to rank the words according to their meaning.
 ### Video link
+##### [Youtube Link](https://www.youtube.com/watch?v=cmAQBTECa40)
