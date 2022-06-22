@@ -28,7 +28,7 @@ Keras-Preprocessing==1.1.2
 Markdown==3.3.4
 Naked==0.1.31
 nltk==3.6.5
-numpy==1.21.2
+numpy==1.22.0
 oauthlib==3.1.0
 opt-einsum==3.3.0
 protobuf==3.17.3
