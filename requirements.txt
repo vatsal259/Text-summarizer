@@ -21,7 +21,7 @@ keras-nightly==2.6.0.dev2021052700
 gunicorn==20.1.0
 itsdangerous==2.0.1
 Jinja2==3.0.2
-joblib==1.1.0
+joblib==1.2.0
 MarkupSafe==2.0.1
 networkx==2.6.3
 Keras-Preprocessing==1.1.2
